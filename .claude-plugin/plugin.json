@@ -1,0 +1,16 @@
+{
+  "name": "legal-pages-check",
+  "version": "0.1.0",
+  "description": "Checks privacy policy, terms and cookie notice against a per-country checklist (Colombia's Law 1581 as example) and what the app declares; flags what a lawyer must see. Not legal advice.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/legal-pages-check",
+  "repository": "https://github.com/nvv-dev/legal-pages-check",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "growth-workflow"
+  ]
+}
