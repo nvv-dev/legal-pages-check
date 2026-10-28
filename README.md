@@ -27,7 +27,7 @@ Llegar al abogado con una lista corta de vacíos reales y preguntas precisas, en
 ## Ejemplo
 
 ```text
-/legal-pages-check sobre la política de privacidad de kodaloom.com para Colombia.
+/legal-pages-check sobre la política de privacidad de mi sitio web para Colombia.
 ```
 
 ## Cómo se activa
